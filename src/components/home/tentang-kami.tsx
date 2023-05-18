@@ -9,6 +9,7 @@ const TentangKami = () => {
         width={1920}
         height={1080}
         className='w-full'
+        loading='eager'
       />
       <div className='container mx-auto space-y-6 px-4 md:px-0'>
         <div className='divider '>
